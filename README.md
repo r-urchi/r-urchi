@@ -2,6 +2,15 @@
 
 ### I'm a Web Developer with 4+ years of experience
 
+### To contact me or have more information about my work, here is my Portfolio and Linkedin
+
+<a href="https://ramon-urchipia.netlify.app/" target="_blank">
+    Ramón Urchipia - Portfolio
+</a>
+
+<a href="https://www.linkedin.com/in/ramonurchipia/" target="_blank">
+    Ramón Urchipia - Linkedin
+</a>
 
 ### Languages and Tools
 
