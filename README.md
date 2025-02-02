@@ -5,11 +5,11 @@
 ### To contact me or have more information about my work, here is my Portfolio and Linkedin
 
 <a href="https://ramon-urchipia.netlify.app/" target="_blank">
-    Ramón Urchipia - Portfolio
+    Portfolio
 </a>
-
+<br>
 <a href="https://www.linkedin.com/in/ramonurchipia/" target="_blank">
-    Ramón Urchipia - Linkedin
+    Linkedin
 </a>
 
 ### Languages and Tools
